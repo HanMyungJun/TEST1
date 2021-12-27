@@ -1,5 +1,5 @@
 function init(){
-    document.querySelector("h1").onclickFunc;
+    document.querySelector("h1").onclick=clickFunc;
 
 }
 function clincFunc(){
